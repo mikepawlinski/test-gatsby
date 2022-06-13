@@ -7,8 +7,8 @@ exports.createPages = async ({ actions }) => {
     defer: true,
   })
   createPage({
-    path: "/using-dsg",
-    component: require.resolve("./src/templates/using-dsg.js"),
+    path: "/legal",
+    component: require.resolve("./src/templates/legal.js"),
     context: {},
     defer: true,
   })
