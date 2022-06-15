@@ -83,7 +83,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Bry 2
+nOsz kurde bele
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
